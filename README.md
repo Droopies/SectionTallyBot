@@ -26,7 +26,7 @@ SectionTallyBot automatically:
 
 Install required packages using:
 
-pip install requests schedule
+pip install -r requirements.txt
 
 🔧 Setup
 
