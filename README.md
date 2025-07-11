@@ -39,9 +39,9 @@ termcode = 202540          ; You can find this in the URL on SectionTally. <br>
 dept = MATH                ; Department code (MATH, CS, etc.) <br>
 crn = 41162                ; CRN Number (The most important) <br>
 
-api = YOUR_MAILGUN_API_KEY
-domain = YOUR_MAILGUN_DOMAIN
-email = your_email@example.com
+api = YOUR_MAILGUN_API_KEY <br>
+domain = YOUR_MAILGUN_DOMAIN <br>
+email = your_email@example.com <br>
 
 Use the full list of department codes provided in the config file comments for reference.
 
