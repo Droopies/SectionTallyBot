@@ -18,15 +18,11 @@ SectionTallyBot automatically:
 
     Python 3
 
-    requests
-
-    schedule
-
     A Mailgun account for sending email alerts.
 
-Install required packages using:
+    Install required packages using:
 
-pip install -r requirements.txt
+    pip install -r requirements.txt
 
 🔧 Setup
 
