@@ -35,9 +35,9 @@ pip install -r requirements.txt
     Edit the config.ini file:
 
 [PARAMs]
-termcode = 202540          ; You can find this in the URL on SectionTally. \n
-dept = MATH                ; Department code (MATH, CS, etc.) \n 
-crn = 41162                ; CRN Number (The most important) \n
+termcode = 202540          ; You can find this in the URL on SectionTally. <br>
+dept = MATH                ; Department code (MATH, CS, etc.) <br>
+crn = 41162                ; CRN Number (The most important) <br>
 
 api = YOUR_MAILGUN_API_KEY
 domain = YOUR_MAILGUN_DOMAIN
